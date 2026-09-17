@@ -22,3 +22,11 @@ h1, h2, h3, .titulo {
   background-color: #D98F00;
   color: #1A1A1A;
 }
+
+.navbar .nav-link {
+  color: #FFFFFF;
+}
+
+.navbar .nav-link:hover {
+  color: #F4A300;
+}
