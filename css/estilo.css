@@ -30,3 +30,7 @@ h1, h2, h3, .titulo {
 .navbar .nav-link:hover {
   color: #F4A300;
 }
+
+.texto-banner {
+  color: #DDE7EA;
+}
