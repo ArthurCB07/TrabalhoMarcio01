@@ -47,3 +47,8 @@ h1, h2, h3, .titulo {
   text-transform: uppercase;
   letter-spacing: 1px;
 }
+
+.video {
+  background-color: #0B4F6C;
+  border-radius: 8px;
+}
