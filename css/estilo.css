@@ -1,6 +1,6 @@
 body {
-  background-color: #FAFAF8;
-  color: #1A1A1A;
+  background-color: #F6F7FA;
+  color: #161A23;
   font-family: 'Manrope', sans-serif;
 }
 
@@ -9,18 +9,18 @@ h1, h2, h3, .titulo {
 }
 
 .fundo-azul {
-  background-color: #0B4F6C;
+  background-color: #111A33;
 }
 
 .btn-amarelo {
-  background-color: #F4A300;
-  color: #1A1A1A;
+  background-color: #FFD23F;
+  color: #161A23;
   font-weight: bold;
 }
 
 .btn-amarelo:hover {
-  background-color: #D98F00;
-  color: #1A1A1A;
+  background-color: #F2BE00;
+  color: #161A23;
 }
 
 .navbar .nav-link {
@@ -28,20 +28,20 @@ h1, h2, h3, .titulo {
 }
 
 .navbar .nav-link:hover {
-  color: #F4A300;
+  color: #FFD23F;
 }
 
 .texto-banner {
-  color: #DDE7EA;
+  color: #D3DAEA;
 }
 
 .secao {
   padding: 70px 0;
-  border-top: 1px solid #E4E1D8;
+  border-top: 1px solid #E1E4EC;
 }
 
 .subtitulo {
-  color: #23803F;
+  color: #1D5FD6;
   font-size: 14px;
   font-weight: bold;
   text-transform: uppercase;
@@ -49,15 +49,15 @@ h1, h2, h3, .titulo {
 }
 
 .video {
-  background-color: #0B4F6C;
+  background-color: #111A33;
   border-radius: 8px;
 }
 
 .termo {
-  border-top: 3px solid #0B4F6C;
+  border-top: 3px solid #FFD23F;
   padding-top: 10px;
 }
 
 .texto-rodape {
-  color: #C7D3D7;
+  color: #AEB8D2;
 }
